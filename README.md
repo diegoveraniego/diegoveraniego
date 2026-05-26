@@ -1,4 +1,4 @@
-Just a guy looking to make my workflow more awesome, understand how things work under the hood, mix education with open source, and ultimately craft really awesome software.
+Just a human looking to make my workflow more awesome, understand how things work under the hood, mix education with open source, and ultimately craft really awesome software.
 
 ## Fun Facts
 * My entire brain and notes live inside Doom Emacs
