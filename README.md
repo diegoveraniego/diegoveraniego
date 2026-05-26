@@ -3,7 +3,7 @@ Just a human looking to make my workflow more awesome, understand how things wor
 ## Fun Facts
 * My entire brain and notes live inside Doom Emacs
 * I'm in my last year of a music pedagogy degree
-* I run CachyOS and the Niri compositor + GNOME (to get Arch benefits without breaking my system), btw
+* I run CachyOS and the Niri compositor + GNOME btw
 * Off-screen you'll find me climbing or sleeping
   
 ## KIND OF MY STUFF THAT IS AMAZING (i think)
