@@ -10,4 +10,5 @@ Just a human looking to make my workflow more awesome, understand how things wor
 * My thesis: FOSS as a tool for sustainable music education
 * otelo-app: TypeScript web app for household chores
 * cuali-gtk: Tinkering with C and GTK to make a qualitative analysis tool
+* bosu: a physical rehabilitation tracker
 * Surviving programming courses that i always forget to keep doing
