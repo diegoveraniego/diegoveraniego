@@ -1,16 +1,13 @@
-## Hi there 👋
+Just a guy looking to make my workflow more awesome, understand how things work under the hood, mix education with open source, and ultimately craft really awesome software.
 
-<!--
-**diegoveraniego/diegoveraniego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+* My entire brain and notes live inside Doom Emacs
+* I'm in my last year of a music pedagogy degree
+* I run CachyOS and the Niri compositor + GNOME (to get Arch benefits without breaking my system), btw
+* Off-screen you'll find me climbing or sleeping
+  
+## KIND OF MY STUFF THAT IS AMAZING (i think)
+* My thesis: FOSS as a tool for sustainable music education
+* otelo-app: TypeScript web app for household chores
+* cuali-gtk: Tinkering with C and GTK to make a qualitative analysis tool
+* Surviving programming courses that i always forget to keep doing
